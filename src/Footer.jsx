@@ -6,7 +6,7 @@ import etherscan from "./assets/etherscan.svg";
 
 function Footer() {
   return (
-    <footer className="py-9">
+    <footer id="footer" className="py-9">
       <div className="container flex flex-col lg:flex-row justify-between items-center">
         <div className="flex justify-between items-center flex-col lg:flex-row w-full lg:grid-cols-3 justify-between items-center gap-6 mt-16">
           <a

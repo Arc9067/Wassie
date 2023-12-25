@@ -1,0 +1,12 @@
+@import url("https://fonts.cdnfonts.com/css/space-grotesk");
+@import url("https://fonts.cdnfonts.com/css/vremena-grotesk");
+@import url('https://fonts.cdnfonts.com/css/open-sans');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hero {
+  background: url(./assets/bg.svg) center center;
+  /* background-size: cover; */
+}

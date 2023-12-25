@@ -7,13 +7,16 @@ function Hero() {
       <div className="container grid lg:grid-cols-2 gap-24 justify-between items-center">
         <article className="flex flex-col gap-8">
           <h1 className="max-w-[507px] text-5xl lg:text-7xl font-VremenaGro font-bold">
-            BUIDLer for Web3 builders{" "}
+            Welcome to Wassie
           </h1>
           <div className="max-w-[522px] text-base font-normal font-VremenaGro] leading-loose tracking-tight">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            praesentium ratione et, ullam veritatis odio enim sit iste,
-            accusantium cum cumque, exercitationem aspernatur nesciunt quae
-            tenetur eum a suscipit. Tempore.
+            Introducing "Wassie," the revolutionary crypto project that's not
+            just about making money, it's about community vibes! Imagine this:
+            in the mystical land of decentralized finance, where unicorns roam
+            freely and blockchain dreams come true, there's a place called
+            Wassie. Here, instead of shouting "To the moon!" they chant, "Wee
+            cum togetha, wee vibe, wee mewn" while doing a synchronized dance
+            with their NFT avatars.
           </div>
         </article>
         <img src={logo} alt="logo" className="ml-auto" />

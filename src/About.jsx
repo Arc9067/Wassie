@@ -20,15 +20,12 @@ function About() {
             </h1>
 
             <p className="max-w-[522px] text-white text-base font-normal font-['Space Grotesk'] leading-loose tracking-tight">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
-              nobis illum esse, cupiditate et voluptate laborum quibusdam a
-              explicabo necessitatibus voluptas reiciendis architecto sint
-              totam.
-              <br />
-              <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta
-              voluptatem corrupti, labore minima sapiente harum ipsum
-              repudiandae recusandae eius porro?
+              Wassie isn't just a token; it's a vibe tribe. And if you're not
+              feeling it, don't worry – Wassie has a "vibe booster" feature that
+              fills your digital wallet with positive energy and memes,
+              guaranteed to make you LOL even during market dips. So, join
+              Wassie, where the community is so tight-knit, they might as well
+              be knitting Ethereum sweaters for each other!
             </p>
             <a
               href="https://t.me/wassiesol"
